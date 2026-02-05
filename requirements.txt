@@ -3,3 +3,5 @@ djangorestframework
 gunicorn
 whitenoise
 python-dotenv
+gunicorn
+whitenoise
